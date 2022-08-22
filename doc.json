@@ -1,6 +1,6 @@
 {
     "doctrines": {
-        "30":{"id":30, "name":"Doctrine30Name", "description":"Doctine30Description"},
-        "31":{"id":31, "name":"Doctrine40Name", "description":"Doctine40Description"}
+        "d30":{"id":30, "name":"Doctrine30Name", "description":"Doctine30Description"},
+        "d31":{"id":31, "name":"Doctrine40Name", "description":"Doctine40Description"}
     }
 }
